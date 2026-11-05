@@ -1,4 +1,4 @@
-# <Develop a machine learning system that predicts whether a student will Pass or Fail based on academic, demographic, and behavioral factors. The system should compare the performance of multiple classification algorithms and provide an interactive web interface for users to make predictions.>
+# <Develop a machine learning system that predicts whether a student will Pass or Fail based on academic, demographic, and behavioral factors.>
 
 ## a. Problem statement
 <Develop a machine learning system that predicts whether a student will Pass or Fail based on academic, demographic, and behavioral factors. The system should compare the performance of multiple classification algorithms and provide an interactive web interface for users to make predictions.>
