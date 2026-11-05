@@ -9,9 +9,9 @@ The goal is to predict whether a patient has heart disease (binary classificatio
 - Preprocessing: <missing values handled (e.g. none / imputed)>, categorical features encoded (one-hot / label encoding), numerical features scaled with StandardScaler (needed for Logistic Regression, kNN and SVM), stratified train/test split. Feature order is saved in `feature_columns.pkl` so the Streamlit app uses the same columns as training.
 
 ## c. GitHub repository
-<https://github.com/your-username/your-repo-name>
+<(https://github.com/bhatnayana5-cloud/ML-Assignment2)>
 
-Streamlit app: <https://your-app-name.streamlit.app>
+Streamlit app: <ml-assignment2-7zcyc9cab7sbmjjjl36exb.streamlit.app>
 
 Repository contents: `app.py`, `train_models.py`, `heart.csv`, `test_data.csv`, `metrics_table.csv`, `feature_columns.pkl` and the trained models (`logistic_regression.pkl`, `decision_tree.pkl`, `knn.pkl`, `naive_bayes.pkl`, `support_vector_machine.pkl`).
 
