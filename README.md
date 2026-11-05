@@ -1,4 +1,4 @@
-# <Develop a machine learning system that predicts whether a student will Pass or Fail based on academic, demographic, and behavioral factors.>
+# <Describe the dataset’s purpose, e.g. predicting whether a tumour is malignant or benign from cell measurements.>
 
 ## a. Problem statement
 <Develop a machine learning system that predicts whether a student will Pass or Fail based on academic, demographic, and behavioral factors. The system should compare the performance of multiple classification algorithms and provide an interactive web interface for users to make predictions.>
