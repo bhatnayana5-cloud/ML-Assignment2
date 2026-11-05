@@ -1,7 +1,7 @@
-# <Your project title>
+# <Develop a machine learning system that predicts whether a student will Pass or Fail based on academic, demographic, and behavioral factors. The system should compare the performance of multiple classification algorithms and provide an interactive web interface for users to make predictions.>
 
 ## a. Problem statement
-<What are you predicting, why does it matter?>
+<Develop a machine learning system that predicts whether a student will Pass or Fail based on academic, demographic, and behavioral factors. The system should compare the performance of multiple classification algorithms and provide an interactive web interface for users to make predictions.>
 
 ## b. Dataset description
 - Source: <Kaggle/UCI link>
@@ -9,7 +9,7 @@
 - Preprocessing: <missing values, encoding, scaling>
 
 ## c. GitHub repository
-<link>
+<https://github.com/bhatnayana5-cloud/ML-Assignment2>
 
 ## d. Models used
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
